@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-information-management-nuxt",
+  "capabilityKey": "planned:ecommerce:product-information-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-product-information-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-information-management.md",
+  "presentationPlan": "projects/ecommerce/nuxt/product-information-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
